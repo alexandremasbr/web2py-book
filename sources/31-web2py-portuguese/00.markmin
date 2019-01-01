@@ -2,7 +2,7 @@
 
 Daí eu comecei o ``web2py``  projeto em 2007, principalmente como uma ferramenta de ensino com o objetivo de tornar o desenvolvimento web mais fácil, mais rápido e mais seguro. Com o tempo, conseguiu conquistar o carinho de milhares de usuários experientes e centenas de desenvolvedores. Nosso esforço coletivo criou um dos Frameworks da Web de código aberto mais completos para o desenvolvimento da Web corporativa.
 
-Como resultado, em 2011, ``web2py``  ganhou o Bossie Award como melhor Software de Desenvolvimento de Código Aberto, e em 2012 ganhou o prêmio de Tecnologia do Ano da InfoWorld.
+Como resultado, em 2011, o ``web2py`` ganhou o Bossie Award de melhor Software de Desenvolvimento de Código Aberto, e em 2012 ganhou o prêmio de Tecnologia do Ano da InfoWorld. Com o esforço de uma comunidade crescente, em 2017 o web2py foi finalmente aperfeiçoado para suportar o Python 3 (mas ainda é compatível com o antigo Python 2.7!).
 
 Como você vai aprender nas páginas seguintes, ``web2py``  tenta reduzir a barreira de entrada para o desenvolvimento da web, concentrando-se em três objetivos principais:
 
